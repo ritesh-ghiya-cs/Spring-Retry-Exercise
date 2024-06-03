@@ -1,2 +1,2 @@
 text-file-1
-edi file
+edit file
