@@ -1,4 +1,2 @@
 test file preview
 now local
-aa gayi
-my local changes
